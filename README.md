@@ -7,3 +7,4 @@ grafical PID temperature \
 
 
 ![PID-TEMPERATURE](https://github.com/JhobergLucifer/Control-Temperature/blob/main/pid-temperature-ok-desktop.png)
+![PID-TEMPERATURE2](https://github.com/JhobergLucifer/Control-Temperature/blob/main/pid-tr.png)
