@@ -16,9 +16,9 @@ grafical PID temperature \
 ![PIF-TEMPERATURE3](https://github.dev/JhobergLucifer/Control-Temperature/blob/main/rootlocuspidtemerature-OK1.m)
 
 
-### Add your own driver
+### Source Code PID algoritm and grafical PID
 
-If you use a different display, you can easily add your own driver in `cryptochart/cli.py` by implementing `set_image()` and `show()`:
+Calculate algoritm PID and model volumen, area, in air temperature ecuation, graphical PID and open loop
 
 ```python
 %# Control PID rootlocus
