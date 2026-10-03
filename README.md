@@ -1,4 +1,4 @@
-#by Engineer Jhoberg \
+#by Engineer Jhoberg Quevedo Ruuiz \
 #control temperature
 software calculate control temrature \
 model temerature area,volumen ecuation \
